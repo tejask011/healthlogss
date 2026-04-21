@@ -1,4 +1,4 @@
-<h1>MealMind(healthlogs)<h1>
+<h1>MealMind(healthlogs)</h1>
 
 MealMind is a React-based web application designed to help users track meals, explore healthier food alternatives, analyze nutrition using AI, manage exercises, and follow personalized diet plans.
 
