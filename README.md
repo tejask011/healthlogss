@@ -116,9 +116,14 @@ Smart food alternatives
 Personalized diet plans
 AI-based exercise suggestions
 ⚙️ Installation & Setup
-Clone the repository
 
-git clone https://github.com/your-username/mealmind.git
+
+
+<h1>
+ IMAGE
+
+</h1>
+<img width="1904" height="903" alt="image" src="https://github.com/user-attachments/assets/ab7d12b9-6165-4db1-9a2d-f0286035e791" />
 
 cd mealmind
 
@@ -135,7 +140,8 @@ Run the project
 npm run dev
 
 Application will run on:
-http://localhost:3000
+https://health-logs-six.vercel.app/
+
 
 📦 Scripts
 
